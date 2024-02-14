@@ -9,6 +9,7 @@
 💡 Join us on this journey to revolutionize coding collaboration! Your ideas, their brilliance, and our platform – the perfect Code Collab trifecta! 💡💻
 
 🌐 Deployed App: https://lnkd.in/d7sdzPEh
+
 ![code-collab1](https://github.com/Canzova/Code-Collab2/assets/129614588/31b5441e-0bc0-4b6d-ada0-ce1921371047)
 
 
